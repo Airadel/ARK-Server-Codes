@@ -1,0 +1,572 @@
+"GameCommands": [
+    {
+      "Command": "!Restarts",
+      "CommandReply": "Times Here",
+      "Active": true
+    },
+    {
+      "Command": "!Harvest",
+      "CommandReply": "Rates Here",
+      "Active": true
+    },
+    {
+      "Command": "!Player LVL",
+      "CommandReply": "Levels Here",
+      "Active": true
+    },
+    {
+      "Command": "!XP",
+      "CommandReply": "Rats Here",
+      "Active": true
+    },
+     {
+      "Command": "!Wild LVL",
+      "CommandReply": "Levels Here",
+      "Active": true
+    },
+    {
+      "Command": "!Taming",
+      "CommandReply": "Rates Here",
+      "Active": true
+    },
+    {
+      "Command": "!Archaeopteryx",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Argentavis",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Dimorphodon",
+      "CommandReply": "Raw Mutton",
+      "Active": true
+    },
+    {
+      "Command": "!Featherlight",
+      "CommandReply": "Plant Species Z Seed",
+      "Active": true
+    },
+    {
+      "Command": "!Gasbag",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Giant Bee",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Griffin",
+      "CommandReply": "Extraordinary Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Ichthyornis",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Lymantria",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Onyc",
+      "CommandReply": "Raw Mutton",
+      "Active": true
+    },
+    {
+      "Command": "!Pelagornis",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Ptera",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Quetz",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Snow Owl",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Vulture",
+      "CommandReply": "Spoiled Meat",
+      "Active": true
+    },
+    {
+      "Command": "!Tapejara",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Angler",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Baryonyx",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Basilosaurus",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Beaver",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Coel",
+      "CommandReply": "Aberration Fish Basket",
+      "Active": true
+    },
+    {
+      "Command": "!Pirahna",
+      "CommandReply": "Aberration Fish Basket",
+      "Active": true
+    },
+    {
+      "Command": "!Diplocaulus",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Dunkleosteus",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Electrophorus",
+      "CommandReply": "Bio Toxin",
+      "Active": true
+    },
+    {
+      "Command": "!Ichthyosaurus",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Liopleurodon",
+      "CommandReply": "Giant Bee Honey",
+      "Active": true
+    },
+    {
+      "Command": "!Manta",
+      "CommandReply": "Angler Gel",
+      "Active": true
+    },
+    {
+      "Command": "!Megalodon",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Mosa",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Plesiosaur",
+      "CommandReply": "Superior Kibble",
+      "Active": false
+    },
+    {
+      "Command": "!Sarco",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Tusoteuthis",
+      "CommandReply": "Black Pearls",
+      "Active": true
+    },
+    {
+      "Command": "!Achatina",
+      "CommandReply": "Sweet Veggie Cake",
+      "Active": true
+    },
+    {
+      "Command": "!Allo",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Anklyo",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Araneo",
+      "CommandReply": "Spoiled Meat",
+      "Active": true
+    },
+    {
+      "Command": "!Arthropluera",
+      "CommandReply": "Broth of Enlightenment",
+      "Active": true
+    },
+    {
+      "Command": "!Basilisk",
+      "CommandReply": "Rock Drak Egg",
+      "Active": true
+    },
+    {
+      "Command": "!Beelzebufo",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Bronto",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Bulbdog",
+      "CommandReply": "Plant Species Z Seed",
+      "Active": true
+    },
+    {
+      "Command": "!Carbonemys",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Carno",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Chalicotherium",
+      "CommandReply": "Beer Jar",
+      "Active": true
+    },
+    {
+      "Command": "!Compy",
+      "CommandReply": "Raw Mutton",
+      "Active": true
+    },
+    {
+      "Command": "!Daeodon",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Dilo",
+      "CommandReply": "Basic Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Dimetrodon",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Diplodocus",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Dire Bear",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Direwolf",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Dodo",
+      "CommandReply": "Basic Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Doed",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Dung Beetle",
+      "CommandReply": "Large Feces",
+      "Active": true
+    },
+    {
+      "Command": "!Equus",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Galli",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Giga",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Gigantopithecus",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Glowtail",
+      "CommandReply": "Plant Species Z Seed",
+      "Active": true
+    },
+    {
+      "Command": "!Iguanodon",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Jerboa",
+      "CommandReply": "Plant Species Y Seed",
+      "Active": true
+    },
+    {
+      "Command": "!Penguin",
+      "CommandReply": "Basic Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Kapra",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Karkinos",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Kentro",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Lystro",
+      "CommandReply": "Rare Flower",
+      "Active": false
+    },
+    {
+      "Command": "!Mammoth",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Managarmr",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Mantis",
+      "CommandReply": "Deathworm Horn",
+      "Active": true
+    },
+    {
+      "Command": "!Megalania",
+      "CommandReply": "Extraordinary Kibble",
+      "Active": true
+    },
+     {
+      "Command": "!Megalosaurus",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Megatherium",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Mesopithecus",
+      "CommandReply": "Basic Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Microraptor",
+      "CommandReply": "Rare Flower",
+      "Active": true
+    },
+    {
+      "Command": "!Morellatops",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Oviraptor",
+      "CommandReply": "Eggs",
+      "Active": true
+    },
+    {
+      "Command": "!Ovis",
+      "CommandReply": "Sweet Veggie Cake",
+      "Active": true
+    },
+    {
+      "Command": "!Pachy",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Pachyrhino",
+      "CommandReply": "Bug Repellant",
+      "Active": true
+    },
+    {
+      "Command": "!Paracer",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Parasaur",
+      "CommandReply": "Basic Kibble",
+      "Active": false
+    },
+    {
+      "Command": "!Pego",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Phiomia",
+      "CommandReply": "Basic Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Procoptodon",
+      "CommandReply": "Rare Mushrooms",
+      "Active": true
+    },
+    {
+      "Command": "!Pulmonoscorpus",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Purlovia",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Raptor",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Ravager",
+      "CommandReply": "Cooked Lamb Chop",
+      "Active": true
+    },
+    {
+      "Command": "!Rex",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Rock Elemental",
+      "CommandReply": "Extraordinary Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Roll Rat",
+      "CommandReply": "Giant Bee Honey",
+      "Active": true
+    },
+    {
+      "Command": "!Sabertooth",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Shinehorn",
+      "CommandReply": "Plant Species Z Seed",
+      "Active": true
+    },
+    {
+      "Command": "!Spino",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Stego",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Terror Bird",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Therizino",
+      "CommandReply": "Exceptional Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Thorny Dragon",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Thyla",
+      "CommandReply": "Extraordinary Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Titanoboa",
+      "CommandReply": "Fertilized Eggs",
+      "Active": true
+    },
+    {
+      "Command": "!Trike",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Troodon",
+      "CommandReply": "Feed Your Tames",
+      "Active": true
+    },
+    {
+      "Command": "!Unicorn",
+      "CommandReply": "Rockarrot",
+      "Active": true
+    },
+    {
+      "Command": "!Velonasaur",
+      "CommandReply": "Regular Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Woolly Rhino",
+      "CommandReply": "Superior Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Yuty",
+      "CommandReply": "Extraordinary Kibble",
+      "Active": true
+    },
+    {
+      "Command": "!Megaloceros",
+      "CommandReply": "Simple Kibble",
+      "Active": true
+    }
+  ],
